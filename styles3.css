@@ -1,0 +1,66 @@
+/* Reset and general styling */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .background-video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1; /* Places video behind all other content */
+  }
+  
+  body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to bottom right, #1c1c2e, #3e3d7e);
+    color: #fcfbf7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    padding: 20px; /* Adds padding to prevent content from touching screen edges */
+  }
+  
+  #poem3 {
+    max-width: 700px;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    color: #e0e0e0;
+    line-height: 1.8;
+    text-align: center;
+    overflow-y: auto; /* Allows scrolling if content overflows */
+    max-height: 80vh; /* Limits container height to ensure it fits on screen */
+  }
+  
+  /* Heading Style */
+  #poem3 h3 {
+    font-size: 2.5em;
+    color: #fdfd33;
+    margin-bottom: 20px;
+    text-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Paragraph Style */
+  #poem3 p {
+    font-size: 1.2em;
+    margin: 8px 0;
+  }
+  
+  /* Optional: Add a subtle animation */
+  #poem3 p {
+    animation: fadeIn 1.5s ease-in;
+  }
+  
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  
