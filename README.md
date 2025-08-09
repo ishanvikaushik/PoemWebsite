@@ -20,11 +20,16 @@ This project allows visitors to explore a collection of poems, connect with the 
 
 ## Screenshots
 
-![Homepage Screenshot](path/to/screenshot.png)
+<img width="2850" height="1467" alt="image" src="https://github.com/user-attachments/assets/6628101a-1803-4d21-9ea2-82843f6afe3c" />
+<img width="2879" height="1301" alt="image" src="https://github.com/user-attachments/assets/54a71fdf-d82f-4a68-8429-ddcbe7bfd440" />
+<img width="2879" height="1477" alt="image" src="https://github.com/user-attachments/assets/aa574c9b-2a28-4696-a9c5-d791f98d259d" />
+<img width="2853" height="1474" alt="image" src="https://github.com/user-attachments/assets/858959e7-3e45-4cef-a1dd-465c932b4e63" />
+<img width="2838" height="1464" alt="image" src="https://github.com/user-attachments/assets/6b12d80d-a666-4d2a-bd26-7519e36732e5" />
+<img width="2870" height="1493" alt="image" src="https://github.com/user-attachments/assets/98c2cc88-f01e-47e8-b91d-ffc6a9f2ac4b" />
 
 ## Demo
 
-[Live Site](https://your-deployment-link.com)
+[Live Site]((https://synchronised-hearts.netlify.app/))
 
 ## Getting Started
 
