@@ -29,7 +29,7 @@ This project allows visitors to explore a collection of poems, connect with the 
 
 ## Demo
 
-[Live Site]((https://synchronised-hearts.netlify.app/))
+[Live Site](https://synchronised-hearts.netlify.app/)
 
 ## Getting Started
 
